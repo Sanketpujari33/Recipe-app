@@ -9,7 +9,6 @@ Along with this, we also show a list of ingredients along with the measure. Next
 
 ## Features
 
-- The user enters the dish name of his choice into this input
 - The user enters the dish name of his choice into this input and hits the search button.
 - displays an image of the respective meal.
 - When the user clicks on this button, a pop up opens up with the instructions to cook the meal.
